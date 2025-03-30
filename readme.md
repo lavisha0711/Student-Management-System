@@ -1,0 +1,1 @@
+#This a simple student management system used to manage the recors of the students.
